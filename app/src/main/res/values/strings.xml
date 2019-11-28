@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Boxes</string>
+    <string name="sign_out">sign out</string>
+    <string name="congratulations">Congratulations!</string>
+</resources>
